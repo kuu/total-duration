@@ -1,0 +1,25 @@
+{
+  "name": "total-duration",
+  "version": "0.0.1",
+  "description": "Adds up all the contents duration owned by one provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "Ooyala"
+  ],
+  "author": "Kuu Miyazaki",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.10.4",
+    "babel-polyfill": "^6.9.1",
+    "config": "^1.21.0",
+    "ooyala-api": "0.0.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0"
+  },
+  "private": true
+}
