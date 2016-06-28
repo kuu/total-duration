@@ -1,6 +1,6 @@
 # total-duration
 
-A sample code for adding up all the contents duration owned by one provider.
+A sample Node app for demonstrating the calculation of total contents duration owned by one provider.
 
 ## Install
 ```
